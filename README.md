@@ -1,5 +1,5 @@
 ### Hi there 👋
-I like programming a lot of different stuff, mainly in python. I'm currently working on a small topdown roguelike with pygame, because I don't really like game engines, they take away too much of the coding.
+I like programming, currently working on a big project 🔥
 
 <!--
 **Jonas-Stefan/Jonas-Stefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
